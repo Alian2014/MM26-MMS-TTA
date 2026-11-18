@@ -83,7 +83,15 @@ The first argument selects the GPU; the second names the experiment (without spa
 
 ## <a name="cite"></a> Citation
 
-The formal BibTeX citation will be added once publication details are available. For now, please refer to the title and author list above.
+```
+@inproceedings{jiang2026beyond,
+  title={Beyond Unimodal Reliance: Multimodal Synergy for Training-Free Test-Time Adaptation},
+  author={Jiang, Guohao and Ding, Chenhao and Dong, SongLin and Ma, Zhiheng and Wang, Qiang and He, Yuhang and Gong, Yihong},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  pages={3756--3765},
+  year={2026}
+}
+```
 
 ## License
 

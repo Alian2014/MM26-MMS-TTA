@@ -1,0 +1,21 @@
+positive:
+  enabled: true
+  shot_capacity: 3
+  alpha: 2.363
+  beta: 7.45
+negative:
+  enabled: true
+  shot_capacity: 2
+  alpha: 0.117
+  beta: 1.0
+  entropy_threshold:
+    lower: 0.2
+    upper: 0.5
+  mask_threshold:
+    lower: 0.03
+    upper: 1.0
+delta: 1
+qthres: 0.9
+reg: 0.1
+top_k_d: 20
+top_k_s: 20
