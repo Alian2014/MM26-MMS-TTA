@@ -2,7 +2,7 @@
 
 **MMS-TTA** — Code for *Beyond Unimodal Reliance: Multimodal Synergy for Training-Free Test-Time Adaptation*.
 
-Paper link and publication details will be added when available.
+### [[Paper](https://dl.acm.org/doi/abs/10.1145/3767308.3835136)] 
 
 Guohao Jiang, Chenhao Ding, SongLin Dong, Zhiheng Ma, Qiang Wang, Yuhang He, and Yihong Gong
 
